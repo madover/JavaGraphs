@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="roadgraph">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/roadgraph/Archive.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bin/roadgraph/mod3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bin/roadgraph/myVar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
